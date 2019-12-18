@@ -7,8 +7,8 @@
     <color name="logobg">#FBFF0C</color>
 
     <!-- Screens background color-->
-    <color name="bg_screen1">#f64c73</color>
-    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen1">#4C5DF6</color>
+    <color name="bg_screen2">#FF7B51</color>
     <color name="bg_screen3">#3395ff</color>
     <color name="bg_screen4">#c873f4</color>
 
